@@ -1,1 +1,1 @@
-https://app.netlify.com/sites/voicewriterbyfernandodaumichen/settings/general
+https://voicewriterbyfernandodaumichen.netlify.app/
